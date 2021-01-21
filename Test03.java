@@ -14,7 +14,7 @@ public class Test03 {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("¼ıÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä.");
+		System.out.println("ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”.");
 		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
